@@ -1,4 +1,4 @@
-"","detentionmonth","count","noethnic_count","nohan_count","free_count","freehan_count","year","detention","time","stability_event","stability_event_tibet","focal_event","visit","rev","leader","fdfreehan"
+"","month","count","noethnic_count","nohan_count","free_count","freehan_count","year","detention","time","stability_event","stability_event_tibet","focal_event","visit","rev","leader","fdfreehan"
 "1","1999-01",3,2,1,3,2,"1999",1999-01-01,1,0,0,0,0,0,0,NA
 "2","1999-02",3,0,3,3,0,"1999",1999-02-01,2,0,0,0,0,0,0,-2
 "3","1999-03",7,4,3,7,4,"1999",1999-03-01,3,0,0,0,0,0,0,4
